@@ -7,7 +7,9 @@ https://drive.google.com/file/d/1-NZUociQC1z0xT9XgtjLb2I2sCNbLPOe/view?usp=shari
 
 Resources used: 
   https://www.tensorflow.org/tutorials/keras/basic_regression
+  
   https://www.datacamp.com/community/tutorials/lstm-python-stock-market
+  
   https://colab.research.google.com/notebooks/mlcc/improving_neural_net_performance.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=improvingneuralnets-colab&hl=en
   
   
